@@ -187,3 +187,5 @@ A value is acceptable as hardcoded when:
 - It is used for SVG geometry: `viewBox`, `width`/`height` on inline SVGs
 
 Use references/output-templates.md for the exact JSON and markdown output formats.
+
+
